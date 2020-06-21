@@ -1,6 +1,3 @@
-# --------------
-# Code starts here
-
 # Code starts here
 
 # Create the lists 
@@ -11,13 +8,11 @@ class_2 = ['Hilary Mason','Carla Gentry','Corinna Cortes']
 new_class = (class_1 + class_2)
 print (new_class)
 
-
 # Append the list
 new_class.append('Peter Warden')
 
 # Print updated list
 print(new_class)
-
 
 # Remove the element from the list
 new_class.remove('Carla Gentry')
@@ -27,12 +22,6 @@ print(new_class)
 
 # Code ends here
 
-
-
-# Code ends here
-
-
-# --------------
 # Code starts here
 
 # Create the Dictionary
